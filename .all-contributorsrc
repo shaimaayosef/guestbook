@@ -2322,6 +2322,16 @@
         "question",
         "bug"
       ]
+    },
+    {
+      "login": "shaimaayosef",
+      "name": "shimaa sayed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85807520?v=4",
+      "profile": "https://github.com/shaimaayosef",
+      "contributions": [
+        "a11y",
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7,
